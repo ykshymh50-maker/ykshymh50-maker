@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🖐️ أهلاً بك! أنا يحيى علي (Yahya Ali)
 
-<!--
-**ykshymh50-maker/ykshymh50-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 نبذة عني:
+- 🔭 أعمل حالياً على تطوير تطبيقات باستخدام **Windows Forms (C#)**.
+- 🌱 أتعلم أحدث التقنيات في مجالات: **C#**, **SQL Server**, و **.NET Framework**.
+- 💬 اسألني عن: البرمجة وتطوير تطبيقات سطح المكتب بلغة **C#**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ المهارات والتقنيات (Skills):
+- **لغات البرمجة:** C#, C++
+- **تطوير الواجهات:** Windows Forms (WinForms)
+- **قواعد البيانات:** SQL Server
+- **أدوات التطوير:** Visual Studio, Git, GitHub
+
+---
+
+⚡ **حكمة مفضلة:** "الاستمرارية هي سر النجاح في البرمجة!" 
